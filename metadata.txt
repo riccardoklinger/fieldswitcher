@@ -12,18 +12,18 @@ email=riccardo.klinger@gmail.com
 
 about=Allows to switch all fields of a layer to type hidden or different widget types.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/riccardoklinger/fieldswitcher/issues
+repository=https://github.com/riccardoklinger/fieldswitcher
 # End of mandatory metadata
 
 # Recommended items:
 
 hasProcessingProvider=yes
 # Uncomment the following line and add your changelog:
-# changelog=
+# changelog= 0.1 initial release with support for text and hidden
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=python, qgis2web, fields
 
 homepage=http://homepage
 category=Analysis
